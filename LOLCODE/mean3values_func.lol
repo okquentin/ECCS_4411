@@ -1,0 +1,26 @@
+HAI 1.2
+
+HOW IZ I MEAN_OF_3 YR a AN YR b AN YR c
+    I HAS A mean ITZ SUM OF a AN b
+    mean R SUM OF mean AN c
+    mean R QUOSHUNT OF mean AN 3
+    FOUND YR mean
+IF U SAY SO
+
+I HAS A x
+I HAS A y
+I HAS A z
+
+VISIBLE "gimmeh x"
+GIMMEH x
+VISIBLE "gimmeh y"
+GIMMEH y
+VISIBLE "gimmeh z"
+GIMMEH z
+
+x R MAEK x A NUMBAR
+y R MAEK y A NUMBAR
+z R MAEK z A NUMBAR
+
+VISIBLE I IZ MEAN_OF_3 YR x AN YR y AN YR z MKAY
+KTHXBYE

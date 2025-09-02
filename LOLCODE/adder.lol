@@ -1,0 +1,12 @@
+HAI 1.2
+BTW computes the sum of 2 numbers
+I HAS A x
+I HAS A y
+I HAS A s
+GIMMEH x
+GIMMEH y
+x IS NOW A NUMBR
+y IS NOW A NUMBR
+s R SUM OF x AN Y
+VISIBLE s
+KTHXBYE
