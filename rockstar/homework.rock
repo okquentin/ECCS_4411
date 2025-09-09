@@ -1,23 +1,109 @@
+My score is 0
+
 Government wants my house
-While my house ain't like Kensington,
-print " "
-Knock my house down, baby
+    While my house ain't like Kensington,
+        print " "
+        Knock my house down, baby
 
-My score is nothing
-My note is "A"
-My money is like a goldsmiths
+Game wants my note
+    My money is like a goldsmiths
+    While my money ain't like retirement,
+        print my note
+        Government taking my money
+        My delay is like timeitself,
+        While my delay ain't 100000,
+            Build my delay up, baby
+    Knock my money down, yeah
+    My life is a horrifying feverdream
+    Government taking my life
+    Shout "Hit the note!" + "(Score: " + my score + ")" 
+    Listen to the drums
+    if the drums are my note 
+        Build my score up, yeah
 
-While my money ain't like retirement,
-    print my note
-    Government taking my money
-    My delay is like timeitself,
-    While my delay ain't 100000,
-        Build my delay up, baby
-Knock my money down, yeah
+Vampire wants my blood
+    While my blood is greater than 6,
+        Let my blood be without 6
+        Knock my blood down, baby
+    Put my blood into your mouth
+    Give it back
 
-My life is a horrifying feverdream
-Government taking my life
+Guitar is "1F3B8". Cast it with 16. Cast it. 
+Shout it+" Welcome to Lyric Challenge! "+it (might not work)
+Shout "Please enter a song lyric:"
 
-Listen to the drums
-if the drums are my note
+Listen to the shadow
+Cast the shadow into the night
+My soul is nowhere
+Let my soul be with the night
 
+my blood is gone
+While my soul ain't like nightmares,
+    Let my blood be with the night at my soul-1
+    Knock my soul down, baby
+
+The note at 0 is "A"
+The note at 1 is "B"
+The note at 2 is "C"
+The note at 3 is "D"
+The note at 4 is "E"
+The note at 5 is "F"
+The note at 6 is "G"
+
+Rock pattern
+
+my loop is 0
+while my loop ain't like a roundabout,
+    let my val be my blood with my loop
+    let my result be Vampire taking my val
+    Let my pattern at my loop be the note at my result
+    Build my loop up, baby
+
+while my loop ain't like doneloopin, 
+    Game taking my pattern at my loop-1
+    Knock my loop down, baby
+
+print "Your score was: " + my score
+if my score is 10
+    shout "Legendary! You mastered every challenge. Rockstar status achieved!"
+else
+    if my score is 9
+        shout "Amazing! Just one step away from perfection. You rocked it!"
+    else
+        if my score is 8
+            shout "Great job! You’re a true star, keep shining!"
+        else
+            if my score is 7
+                shout "Well done! You handled most of the challenges with style."
+            else
+                if my score is 6
+                    shout "Good effort! You’re on your way to becoming a rockstar."
+                else
+                    if my score is 5
+                        shout "Not bad! You hit some good notes, but there’s room to improve."
+                    else
+                        if my score is 4
+                            shout "Decent try! Practice makes perfect—keep going."
+                        else
+                            if my score is 3
+                                shout "You gave it a shot! Don’t give up, every star starts somewhere."
+                            else
+                                if my score is 2
+                                    shout "A tough round, but you learned something. Try again!"
+                                else
+                                    if my score is 1
+                                        shout "It wasn’t your day, but every rockstar has a rough gig. Keep practicing!"
+                                    else
+                                        if my score is 0
+                                            shout "Ouch! The crowd is silent. Time to tune up and try again!"
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end
