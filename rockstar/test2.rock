@@ -1,0 +1,34 @@
+Vampire wants my blood
+    whisper "Initial blood:" + my blood
+    While my blood is greater than 6,
+        let my blood be without 6
+        Knock my blood down, baby
+    Put my blood into your mouth
+    Whisper "mod 6: " + my blood
+    Give it back
+
+My blood is 14
+Let my val be Vampire taking my blood
+print my blood
+print my val
+
+The note at 0 is "A"
+The note at 1 is "B"
+The note at 2 is "C"
+The note at 3 is "D"
+The note at 4 is "E"
+The note at 5 is "F"
+The note at 6 is "G"
+
+Rock pattern
+
+my loop is 0
+
+while my loop ain't like a roundabout,
+    whisper "Iteration " + my loop
+    let my val be with my loop
+    let my result be Vampire taking my val
+    Let my pattern at my loop be the note at my result
+    Build my loop up, baby
+
+print my pattern
