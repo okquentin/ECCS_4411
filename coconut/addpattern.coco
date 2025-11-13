@@ -1,0 +1,13 @@
+def factorial(0) = 1
+
+addpattern def factorial(int() as n if n > 0) =
+    """Compute n! where n is an integer >= 0."""
+    range(1, n+1) |> reduce$(*)
+
+# Test cases:
+cases = [-1, 0.5, 0, 3]
+for case in cases:
+    try:
+        case |> factorial |> print
+    except MatchError as e:
+        e |> print
